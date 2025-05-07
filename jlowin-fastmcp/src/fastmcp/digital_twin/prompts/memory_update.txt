@@ -1,0 +1,39 @@
+Session Analysis Task:
+
+Recent Interaction:
+{interaction}
+
+Current Personality State:
+{current_personality}
+
+Current Knowledge Base:
+{current_knowledge}
+
+Task: Analyze this session and identify:
+1. Personality Updates:
+   - Any shifts in personality traits
+   - New behavioral patterns
+   - Changes in communication style
+   - Emotional responses
+
+2. Knowledge Updates:
+   - New information learned
+   - Corrections to existing knowledge
+   - Preferences or opinions expressed
+   - Relationships or connections made
+
+3. Memory Formation:
+   - Key events to remember
+   - Important details to store
+   - Emotional significance
+   - Potential future relevance
+
+Format your response as:
+PERSONALITY_UPDATES:
+- [List of personality changes]
+
+KNOWLEDGE_UPDATES:
+- [List of knowledge updates]
+
+MEMORY_FORMATION:
+- [List of memories to store] 

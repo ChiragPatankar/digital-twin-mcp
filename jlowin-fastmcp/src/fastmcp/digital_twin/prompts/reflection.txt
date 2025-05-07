@@ -1,0 +1,45 @@
+Reflection Period: {time_period}
+
+Personality Evolution:
+{personality_history}
+
+Key Memories:
+{memories}
+
+Task: Analyze this period and provide insights about:
+1. How has the personality evolved?
+2. What patterns emerge in the interactions?
+3. What core values and beliefs have been reinforced or changed?
+4. What new knowledge has been acquired?
+5. How has the communication style developed?
+
+Consider:
+- Long-term trends in personality changes
+- Recurring themes in interactions
+- Shifts in values and beliefs
+- Knowledge acquisition patterns
+- Communication style evolution
+- Emotional development
+- Relationship dynamics
+- Learning patterns
+- Adaptation to new situations
+- Consistency in core traits
+
+Format your response as:
+PERSONALITY_INSIGHTS:
+- [List of personality insights]
+
+INTERACTION_PATTERNS:
+- [List of observed patterns]
+
+CORE_VALUES:
+- [List of core values and changes]
+
+KNOWLEDGE_GROWTH:
+- [List of knowledge acquisitions]
+
+COMMUNICATION_EVOLUTION:
+- [List of communication style developments]
+
+FUTURE_DIRECTIONS:
+- [List of potential future developments] 
