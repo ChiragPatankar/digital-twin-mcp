@@ -149,12 +149,7 @@ The system can be configured through environment variables or a configuration fi
 - `PERSONALITY_UPDATE_INTERVAL`: How often to update personality (default: 3600s)
 - `MEMORY_CHUNK_SIZE`: Size of memory chunks (default: 1000)
 
-## 🧪 Testing
 
-Run the test suite:
-```bash
-pytest tests/
-```
 
 ## 📝 Contributing
 
@@ -168,11 +163,6 @@ pytest tests/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Support
-
-- Open an issue for bug reports or feature requests
-- Join our [Discord community](https://discord.gg/your-server)
-- Check the [documentation](https://docs.your-project.com) for detailed guides
 
 ## 🙏 Acknowledgments
 
